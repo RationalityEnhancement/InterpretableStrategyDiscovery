@@ -1,0 +1,25 @@
+digraph Tree {
+graph [ordering="out"]
+node [color="black",                   fontname=helvetica, shape=box, style="filled, rounded"];                  
+edge [fontname=helvetica];
+0 [fillcolor=white, label=<Is it a node on level 1 or 2 which lies on a best path? >];
+1 [fillcolor=white, label=<Is it an unobserved node on a best path <b>without</b> a +10?>];
+//2 [fillcolor=white, label="Is it a node on level 1?"];
+//3 [fillcolor=white, label=<Is it a node which <b>doesn't</b> lie on a best path?>];
+4 [fillcolor=white, label=<Is it an unobserved node lying on a path <b>with</b> a +10?>];
+0 -> 1  [headlabel="", labelangle=45, labeldistance="2.5"];
+1 -> 8  [headlabel="", labelangle=45, labeldistance="2.5"];
+8 [fillcolor=forestgreen, fontcolor=green, label="CLICK IT"];
+1 -> 9  [headlabel="", labelangle=-45, labeldistance="2.5"];
+9 [fillcolor=tomato, fontcolor=black, label="DON'T CLICK IT"];
+0 -> 4  [headlabel="", labelangle=-45, labeldistance="2.5"];
+//2 -> 4  [headlabel="", labelangle=45, labeldistance="2.5"];
+//2 -> 3  [headlabel="", labelangle=-45, labeldistance="2.5"];
+4 -> 5  [headlabel="", labelangle=45, labeldistance="2.5"];
+5 [fillcolor=forestgreen, fontcolor=green, label="CLICK IT"];
+4 -> 6  [headlabel="", labelangle=-45, labeldistance="2.5"];
+6 [fillcolor=tomato, fontcolor=black, label="DON'T CLICK IT"];
+//3 -> 4  [headlabel="", labelangle=45, labeldistance="2.5"];
+//3 -> 7  [headlabel="", labelangle=-45, labeldistance="2.5"];
+//7 [fillcolor=tomato, fontcolor=black, label="DON'T CLICK IT"];
+}

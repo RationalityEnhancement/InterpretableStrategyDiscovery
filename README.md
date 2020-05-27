@@ -1,6 +1,6 @@
 # AI-Interpret
 
-This is a Python library associated with the "Automatic Discovery of Interpretable Planning Strategies" (Skirzynski, Becker, & Lieder, 2020) submitted to Special Issue on Reinforcement Learning for Real Life in Machine Learning Jornal. Manuscript is avaiable at .... AI-Interpret is an imitation learning algorithm that finds the least complex, high-performing MAP logical formula that interprets a set of demonstrations.
+This is a Python library associated with the "Automatic Discovery of Interpretable Planning Strategies" (Skirzynski, Becker, & Lieder, 2020) submitted to Special Issue on Reinforcement Learning for Real Life in Machine Learning Jornal. The manuscript is avaiable at https://arxiv.org/abs/2005.11730. AI-Interpret is an imitation learning algorithm that finds the least complex, high-performing MAP logical formula that interprets a set of demonstrations.
 
 We used Python 3.6.9 and Ubuntu 18.04.
 

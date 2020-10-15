@@ -198,19 +198,21 @@ def print_whitney(rews_group1, rews_group2):
     
 def print_statistics(df1, df2, key):
     print(' -- df1 -- ')
-    print('Mean: {}'.format(np.mean(df1[key])))
-    print('Std: {}'.format(np.std(df1[key])))
+    print('Median: {}'.format(r(np.median(df1[key]))))
+    print('Mean: {}'.format(r(np.mean(df1[key]))))
+    print('Std: {}'.format(r(np.std(df1[key]))))
+    print('(${}\% \; (M= {}\%, SD = {}\%)$)'.format( r(np.median(df1[key])) , r(np.mean(df1[key])), r(np.std(df1[key]))))
     print()
-    
+
     print(' -- df2 -- ')
-    print('Mean: {}'.format(np.mean(df2[key])))
-    print('Std: {}'.format(np.std(df2[key])))
-    print() 
-    
-    print(' -- test-- ')
-    print_ttest(df1[key], df2[key])
-    print_whitney(df1[key], df2[key])
+    print('Median: {}'.format(r(np.median(df2[key]))))
+    print('Mean: {}'.format(r(np.mean(df2[key]))))
+    print('Std: {}'.format(r(np.std(df2[key]))))
+    print('(${}\% \; (M= {}\%, SD = {}\%)$)'.format( r(np.median(df2[key])) , r(np.mean(df2[key])), r(np.std(df2[key]))))    
     print()
+
+def r(number, digit=4):
+    return round(number,digit)
 
 def create_barplot(df1, df2, key, bins):
     

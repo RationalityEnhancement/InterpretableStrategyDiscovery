@@ -1,0 +1,45 @@
+[HIT Configuration]
+title = Example JsPsych Psiturk Experiment
+description = For educational purposes
+amt_keywords = Psychology
+lifetime = 24
+us_only = true
+approve_requirement = 95
+contact_email_on_error = youremail@gmail.com
+ad_group = Default psiTurk
+organization_name = New Great University
+browser_exclude_rule = MSIE, mobile, tablet
+allow_repeats = false
+
+[Database Parameters]
+database_url = {{ db_url }}
+table_name = participants
+
+[Server Parameters]
+host = 0.0.0.0
+port = 22362
+cutoff_time = 30
+logfile = server.log
+loglevel = 2
+debug = true
+login_username = user
+login_pw = pw
+threads = 1
+secret_key = 'this is my secret key which is hard to guess, i should change this'
+adserver_revproxy_host = {{ app_url }}
+
+[Task Parameters]
+experiment_code_version = 1.0
+num_conds = 1
+num_counters = 1
+
+[Shell Parameters]
+launch_in_sandbox_mode = true
+bonus_message = "Thanks for participating!"
+
+# If you are not using the psiturk ad server, set `use_psiturk_ad_server` to `false` and point `ad_location` to your proxy server <host> and <port>. Format the ad_location like this:
+#
+#   https://<host>:<port>/ad 
+
+use_psiturk_ad_server = true
+ad_location = false

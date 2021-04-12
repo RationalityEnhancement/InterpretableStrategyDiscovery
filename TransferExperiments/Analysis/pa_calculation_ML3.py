@@ -1,7 +1,5 @@
 import numpy as np
 
-
-
 def get_agreement_trial(actions):
     print('')
     print(' Neweeew Trial')

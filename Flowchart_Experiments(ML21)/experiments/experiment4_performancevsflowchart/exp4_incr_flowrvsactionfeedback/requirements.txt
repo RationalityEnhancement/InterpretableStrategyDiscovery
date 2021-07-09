@@ -1,0 +1,2 @@
+PsiTurk
+psycopg2-binary

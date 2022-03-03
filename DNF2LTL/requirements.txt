@@ -1,7 +1,7 @@
 frozendict==1.2
 matplotlib==3.1.2
 six==1.14.0
-numpy==1.18.3
+numpy==1.21.0
 geneticalgorithm==1.0.2
 gym==0.9.4
 pydotplus==2.0.2

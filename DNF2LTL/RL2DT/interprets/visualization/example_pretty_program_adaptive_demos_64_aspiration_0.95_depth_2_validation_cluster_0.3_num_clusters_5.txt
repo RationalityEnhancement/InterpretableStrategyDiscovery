@@ -1,0 +1,2 @@
+among(not(is_observed) : has_largest_depth ) AND not(is_previous_observed_max)
+ 

@@ -1,0 +1,275 @@
+body {
+	font-family:helvetica;
+    padding: 0px;
+    margin: 0px;
+    background-color: white;
+    color: black;
+    font-weight: 300;
+    font-size: 13pt;
+}
+
+.complete {
+    font-size: 18pt;
+}
+
+/* Experiment pages */
+#map {
+	background-repeat:no-repeat;
+	background-size:contain;
+	background-position: center center;
+	width: 80vw;
+	height: 60vh;
+	border: none;
+	position:relative;
+	left: 50%;
+	transform: translate(-50%, 0%);
+}
+
+#canvas {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.popup .alert {
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+
+#handle_error textarea{
+	font-size:2vh;
+	width:90%;
+	height:20%;
+	margin-left:2%;
+	margin-right:8%;
+}
+
+.load-icon {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  width: 150px;
+  height: 150px;
+  margin: -75px 0 0 -75px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.mybutton {
+	position:absolute;
+	cursor:pointer;
+	color:#ffffff;
+	border-radius:4px;
+	border: 2px solid #666666;
+	background-color:#999999;
+	font-size:2.25vh;
+	padding: 10px 10px;
+	text-decoration:none;
+	background-repeat:no-repeat;
+}
+.mybutton:hover {
+	background-color:#aaaaaa;
+}
+
+.myicon{
+	position:absolute;
+	margin: 0 auto;
+	width: 10vw;
+	font-size: 3vh;
+	text-align:center;
+}
+
+.overlayed{
+  opacity:0.4;
+  background:black;
+  width:100%;
+  height:100%;
+  z-index:10;
+  position:fixed;
+}
+
+.popup{
+	display:none;
+	position:absolute;
+	width:90%;
+	height:90%;
+	top:5%;
+	right:5%;
+	background-color:white;
+	border-radius:20px;
+	border:2px solid #666666;
+	z-index:20;
+}
+
+.popup p {
+	text-align:left;
+	margin-left:2%;
+	margin-right:2%;
+	margin-top:1.5vh;
+	margin-bottom:1.5vh;
+	font-size:3vh;
+}
+.popup .mybutton {
+	transform: translate(-50%, 50%);
+}
+
+.popup select {
+	text-align:left;
+	margin-left:2%;
+	margin-right:2%;
+	margin-bottom:3vh;
+	font-size:2.5vh;
+	border: 2px solid;
+	border-radius:5px;
+}
+
+.popup img{
+	height:65vh;
+	border:none;
+}
+
+#instructions p:first-of-type{
+	min-height:13vh;
+}
+
+#comments textarea{
+	font-size:2vh;
+	width:90%;
+	height:40%;
+	margin-left:2%;
+	margin-right:8%;
+}
+
+#savebutton{
+	width:10vw;
+	height:8vh;
+	top:80vh;
+	left:3vw;
+}
+
+#reportbutton{
+	width:10vw;
+	height:8vh;
+	top:80vh;
+	left:15vw;
+}
+
+#finishedbutton{
+	position:relative;
+	vertical-align: middle;
+	height:6vh;
+	width:14vw;
+	margin-left: 5vw;
+}
+
+#nexttrialbutton{
+	display:none;
+	vertical-align: middle;
+	height:6vh;
+	width:8vw;
+	position:relative;
+}
+
+#cityinput{
+	/*position:absolute;
+	top:72vh;
+	left:25vw;*/
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+#submitnext{
+	/*position:absolute;
+	top:72vh;
+	left:25vw;*/
+	position: absolute;
+	top: 93%;
+	left: 48%;
+	transform: translate(-50%, -50%);
+}
+
+
+#feedbackroadtrip{
+	display:none;
+	position:absolute;
+	height:8vh;
+	width: 85vw;
+	top:71vh;
+	left:50vw;
+	transform:translate(-50%, 50%);
+}
+
+#timecost{
+	display:none;
+	position:absolute;
+	height:8vh;
+	top:78vh;
+	left:50vw;
+	transform:translate(-50%, 50%);
+}
+
+
+#cityinput [type=text]{
+	position:relative;
+	vertical-align: middle;
+	border-radius: 4px;
+	border: 2px solid #666666;
+	padding: 0vh 1vh;
+	width: 20vw;
+	font-size:4vh;
+	height: 6vh;
+/* 	margin: 0 10vw 0 0;*/
+}
+
+#cityinput [type=submit]{
+	position:relative;
+	vertical-align: middle;
+	cursor:pointer;
+	color:#ffffff;
+	border-radius:4px;
+	border: 2px solid #666666;
+	background-color:#999999;
+	font-size: 2vh;
+	padding: 1vh 1vh;
+	margin: 0 auto;
+	height:6vh;
+	width:8vw;
+/* 	margin: 0 10vw 0 0;*/
+	text-decoration:none;
+	background-repeat:no-repeat;
+}
+
+#cityinput [type=submit]:hover {
+	background-color:#aaaaaa;
+}
+
+.autocomplete-suggestion {
+    cursor: pointer;
+	text-align: left;
+}
+
+.autocomplete-suggestion:hover{
+    cursor: pointer;
+	background-color : #dddddd;
+}

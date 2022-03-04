@@ -1,0 +1,3759 @@
+[
+  {
+    "city_info": {
+      "Wolfville": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Rustbluff": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Glumgorge": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Darkstone": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Snakedune": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Stiffbrook": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Blindtooth": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Ragbanks": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Steelcanyon": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Swiftchapel": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Dreadriver": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      }
+    },
+    "map": "fantasy_map_1560976725599.png",
+    "graph": {
+      "edges": [
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          5,
+          7
+        ],
+        [
+          6,
+          4
+        ],
+        [
+          9,
+          7
+        ],
+        [
+          5,
+          10
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          8,
+          9
+        ],
+        [
+          3,
+          8
+        ],
+        [
+          9,
+          4
+        ]
+      ],
+      "nodes": {
+        "0": {
+          "id": 0,
+          "label": "Wolfville",
+          "x": -0.3049894588896697,
+          "y": -0.24631268436578171
+        },
+        "1": {
+          "id": 1,
+          "label": "Rustbluff",
+          "x": -0.14617006324666199,
+          "y": 0.06342182890855458
+        },
+        "2": {
+          "id": 2,
+          "label": "Glumgorge",
+          "x": -0.286718200983837,
+          "y": -0.004424778761061947
+        },
+        "3": {
+          "id": 3,
+          "label": "Darkstone",
+          "x": -0.05130007027406887,
+          "y": -0.24631268436578171
+        },
+        "4": {
+          "id": 4,
+          "label": "Snakedune",
+          "x": 0.24736472241742796,
+          "y": 0.1696165191740413
+        },
+        "5": {
+          "id": 5,
+          "label": "Stiffbrook",
+          "x": 0.1602248770203795,
+          "y": -0.18141592920353983
+        },
+        "6": {
+          "id": 6,
+          "label": "Blindtooth",
+          "x": 0.06394940267041462,
+          "y": 0.06489675516224189
+        },
+        "7": {
+          "id": 7,
+          "label": "Ragbanks",
+          "x": 0.3239634574841883,
+          "y": -0.14896755162241887
+        },
+        "8": {
+          "id": 8,
+          "label": "Steelcanyon",
+          "x": 0.02881236823612087,
+          "y": -0.08702064896755163
+        },
+        "9": {
+          "id": 9,
+          "label": "Swiftchapel",
+          "x": 0.19395643007730148,
+          "y": -0.016224188790560472
+        },
+        "10": {
+          "id": 10,
+          "label": "Dreadriver",
+          "x": 0.2326071679550246,
+          "y": -0.3303834808259587
+        }
+      }
+    },
+    "start_city": "Wolfville",
+    "end_cities": [
+      "Ragbanks",
+      "Dreadriver",
+      "Snakedune"
+    ]
+  },
+  {
+    "city_info": {
+      "Scornvale": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Silentedge": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Wolftrails": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Smoothmountain": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Serpentcrag": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Purestone": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Thornburg": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Wildbend": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Silverstead": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Greedpass": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Sinvale": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      }
+    },
+    "map": "fantasy_map_1560976804519.png",
+    "graph": {
+      "edges": [
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          6,
+          4
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          9,
+          6
+        ],
+        [
+          9,
+          10
+        ],
+        [
+          10,
+          7
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          9,
+          8
+        ],
+        [
+          8,
+          7
+        ]
+      ],
+      "nodes": {
+        "0": {
+          "id": 0,
+          "label": "Scornvale",
+          "x": -0.36199095022624433,
+          "y": 0.014749262536873156
+        },
+        "1": {
+          "id": 1,
+          "label": "Silentedge",
+          "x": -0.13186813186813187,
+          "y": 0.20648967551622419
+        },
+        "2": {
+          "id": 2,
+          "label": "Wolftrails",
+          "x": -0.24434389140271492,
+          "y": 0.25958702064896755
+        },
+        "3": {
+          "id": 3,
+          "label": "Smoothmountain",
+          "x": -0.2094376212023271,
+          "y": -0.0752212389380531
+        },
+        "4": {
+          "id": 4,
+          "label": "Serpentcrag",
+          "x": 0.3076923076923077,
+          "y": 0.15486725663716813
+        },
+        "5": {
+          "id": 5,
+          "label": "Purestone",
+          "x": -0.09631544925662573,
+          "y": -0.008849557522123894
+        },
+        "6": {
+          "id": 6,
+          "label": "Thornburg",
+          "x": 0.15966386554621848,
+          "y": 0.058997050147492625
+        },
+        "7": {
+          "id": 7,
+          "label": "Wildbend",
+          "x": 0.30187459599224303,
+          "y": -0.09144542772861357
+        },
+        "8": {
+          "id": 8,
+          "label": "Silverstead",
+          "x": 0.16095669036845509,
+          "y": -0.084070796460177
+        },
+        "9": {
+          "id": 9,
+          "label": "Greedpass",
+          "x": 0.0019392372333548805,
+          "y": -0.252212389380531
+        },
+        "10": {
+          "id": 10,
+          "label": "Sinvale",
+          "x": 0.20038784744667099,
+          "y": -0.3112094395280236
+        }
+      }
+    },
+    "start_city": "Scornvale",
+    "end_cities": [
+      "Wildbend",
+      "Serpentcrag"
+    ]
+  },
+  {
+    "city_info": {
+      "Goldcreak": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Crazerock": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Tanscar": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Breakroost": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Lightbank": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Slowalley": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Wolfmesa": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Desertglen": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Crookgate": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Blankhallow": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Tuckersnag": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      }
+    },
+    "map": "fantasy_map_1560976821363.png",
+    "graph": {
+      "edges": [
+        [
+          4,
+          10
+        ],
+        [
+          5,
+          9
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "nodes": {
+        "0": {
+          "id": 0,
+          "label": "Goldcreak",
+          "x": -0.27020038784744665,
+          "y": 0.08259587020648967
+        },
+        "1": {
+          "id": 1,
+          "label": "Crazerock",
+          "x": 0.0019392372333548805,
+          "y": 0.18141592920353983
+        },
+        "2": {
+          "id": 2,
+          "label": "Tanscar",
+          "x": -0.06464124111182935,
+          "y": -0.10766961651917405
+        },
+        "3": {
+          "id": 3,
+          "label": "Breakroost",
+          "x": 0.12023270846800259,
+          "y": 0.02064896755162242
+        },
+        "4": {
+          "id": 4,
+          "label": "Lightbank",
+          "x": 0.21266968325791855,
+          "y": 0.1592920353982301
+        },
+        "5": {
+          "id": 5,
+          "label": "Slowalley",
+          "x": 0.20749838396897222,
+          "y": -0.10766961651917405
+        },
+        "6": {
+          "id": 6,
+          "label": "Wolfmesa",
+          "x": 0.3400129282482224,
+          "y": 0.09144542772861357
+        },
+        "7": {
+          "id": 7,
+          "label": "Desertglen",
+          "x": 0.26312863606981253,
+          "y": -0.004424778761061947
+        },
+        "8": {
+          "id": 8,
+          "label": "Crookgate",
+          "x": 0.07369101486748546,
+          "y": -0.2079646017699115
+        },
+        "9": {
+          "id": 9,
+          "label": "Blankhallow",
+          "x": 0.3044602456367162,
+          "y": -0.27728613569321536
+        },
+        "10": {
+          "id": 10,
+          "label": "Tuckersnag",
+          "x": 0.26312863606981253,
+          "y": 0.25091445427728614
+        }
+      }
+    },
+    "start_city": "Goldcreak",
+    "end_cities": [
+      "Tuckersnag",
+      "Desertglen",
+      "Blankhallow",
+      "Wolfmesa"
+    ]
+  },
+  {
+    "city_info": {
+      "Quickbanks": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Copper Crag": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Scorncreak": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Thinpass": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Defiant Rock": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Bareriver": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Dodgelake": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Dullgulch": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Paleflats": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Idlestream": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Drylanding": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      }
+    },
+    "map": "fantasy_map_1560976853546.png",
+    "graph": {
+      "edges": [
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          9
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          4,
+          10
+        ],
+        [
+          3,
+          10
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          9,
+          7
+        ],
+        [
+          0,
+          8
+        ],
+        [
+          8,
+          3
+        ]
+      ],
+      "nodes": {
+        "0": {
+          "id": 0,
+          "label": "Quickbanks",
+          "x": -0.2275371687136393,
+          "y": -0.09587020648967552
+        },
+        "1": {
+          "id": 1,
+          "label": "Copper Crag",
+          "x": -0.08338720103425985,
+          "y": 0.17699115044247787
+        },
+        "2": {
+          "id": 2,
+          "label": "Scorncreak",
+          "x": 0.012281835811247576,
+          "y": -0.26253687315634217
+        },
+        "3": {
+          "id": 3,
+          "label": "Thinpass",
+          "x": 0.13574660633484162,
+          "y": -0.02654867256637168
+        },
+        "4": {
+          "id": 4,
+          "label": "Defiant Rock",
+          "x": 0.12152553329023917,
+          "y": 0.1415929203539823
+        },
+        "5": {
+          "id": 5,
+          "label": "Bareriver",
+          "x": 0.25331609566903684,
+          "y": -0.16749262536873156
+        },
+        "6": {
+          "id": 6,
+          "label": "Dodgelake",
+          "x": 0.34841628959276016,
+          "y": -0.13716814159292035
+        },
+        "7": {
+          "id": 7,
+          "label": "Dullgulch",
+          "x": 0.2979961215255333,
+          "y": -0.3230088495575221
+        },
+        "8": {
+          "id": 8,
+          "label": "Paleflats",
+          "x": -0.011635423400129283,
+          "y": 0.017699115044247787
+        },
+        "9": {
+          "id": 9,
+          "label": "Idlestream",
+          "x": 0.15076923076923078,
+          "y": -0.25008849557522124
+        },
+        "10": {
+          "id": 10,
+          "label": "Drylanding",
+          "x": 0.35423400129282484,
+          "y": 0.032448377581120944
+        }
+      }
+    },
+    "start_city": "Quickbanks",
+    "end_cities": [
+      "Dodgelake",
+      "Drylanding",
+      "Dullgulch"
+    ]
+  },
+  {
+    "city_info": {
+      "Blindridge": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Lordssnag": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Venombutte": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Narrowville": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Leadtrail": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Swifttusk": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Desertburg": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Glumworth": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Thornhollow": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Tuckerdune": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Littlecanyon": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      }
+    },
+    "map": "fantasy_map_1560976873961.png",
+    "graph": {
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          10
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          5,
+          7
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          4,
+          8
+        ],
+        [
+          8,
+          6
+        ]
+      ],
+      "nodes": {
+        "0": {
+          "id": 0,
+          "label": "Blindridge",
+          "x": -0.3341952165481577,
+          "y": 0.1976401179941003
+        },
+        "1": {
+          "id": 1,
+          "label": "Lordssnag",
+          "x": -0.16289592760180996,
+          "y": 0.19321533923303835
+        },
+        "2": {
+          "id": 2,
+          "label": "Venombutte",
+          "x": -0.23206205559146736,
+          "y": -0.08112094395280237
+        },
+        "3": {
+          "id": 3,
+          "label": "Narrowville",
+          "x": -0.01098901098901099,
+          "y": -0.17699115044247787
+        },
+        "4": {
+          "id": 4,
+          "label": "Leadtrail",
+          "x": 0.028442146089204912,
+          "y": 0.23008849557522124
+        },
+        "5": {
+          "id": 5,
+          "label": "Swifttusk",
+          "x": 0.17647058823529413,
+          "y": -0.24336283185840707
+        },
+        "6": {
+          "id": 6,
+          "label": "Desertburg",
+          "x": 0.24499030381383322,
+          "y": 0.011799410029498525
+        },
+        "7": {
+          "id": 7,
+          "label": "Glumworth",
+          "x": 0.3477698771816419,
+          "y": -0.1415929203539823
+        },
+        "8": {
+          "id": 8,
+          "label": "Thornhollow",
+          "x": 0.09566903684550743,
+          "y": 0.05604719764011799
+        },
+        "9": {
+          "id": 9,
+          "label": "Tuckerdune",
+          "x": 0.3283775048480931,
+          "y": 0.11209439528023599
+        },
+        "10": {
+          "id": 10,
+          "label": "Littlecanyon",
+          "x": 0.2727860374919198,
+          "y": 0.27876106194690264
+        }
+      }
+    },
+    "start_city": "Blindridge",
+    "end_cities": [
+      "Tuckerdune",
+      "Glumworth"
+    ]
+  },
+  {
+    "city_info": {
+      "Whitecrag": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Numbbanks": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Old Hill": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Snakebank": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Strongcreak": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Grimerock": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Silentcanyon": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Sandy Banks": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Courtdune": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Talonscar": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Clearmountain": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      }
+    },
+    "map": "fantasy_map_1560976890783.png",
+    "graph": {
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          7,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          7,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          4,
+          8
+        ],
+        [
+          8,
+          9
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          8,
+          6
+        ]
+      ],
+      "nodes": {
+        "0": {
+          "id": 0,
+          "label": "Whitecrag",
+          "x": -0.31092436974789917,
+          "y": -0.17256637168141592
+        },
+        "1": {
+          "id": 1,
+          "label": "Numbbanks",
+          "x": -0.15126050420168066,
+          "y": 0.168141592920354
+        },
+        "2": {
+          "id": 2,
+          "label": "Old Hill",
+          "x": -0.09243697478991597,
+          "y": 0.03687315634218289
+        },
+        "3": {
+          "id": 3,
+          "label": "Snakebank",
+          "x": 0.014867485455720749,
+          "y": -0.20206489675516223
+        },
+        "4": {
+          "id": 4,
+          "label": "Strongcreak",
+          "x": 0.10213316095669037,
+          "y": -0.03687315634218289
+        },
+        "5": {
+          "id": 5,
+          "label": "Grimerock",
+          "x": 0.27407886231415646,
+          "y": -0.02064896755162242
+        },
+        "6": {
+          "id": 6,
+          "label": "Silentcanyon",
+          "x": 0.24628312863606983,
+          "y": 0.17994100294985252
+        },
+        "7": {
+          "id": 7,
+          "label": "Sandy Banks",
+          "x": 0.011635423400129283,
+          "y": 0.26548672566371684
+        },
+        "8": {
+          "id": 8,
+          "label": "Courtdune",
+          "x": 0.1997414350355527,
+          "y": -0.20206489675516223
+        },
+        "9": {
+          "id": 9,
+          "label": "Talonscar",
+          "x": 0.17061409179056237,
+          "y": 0
+        },
+        "10": {
+          "id": 10,
+          "label": "Clearmountain",
+          "x": 0.15061409179056237,
+          "y": 0.26548672566371684
+        }
+      }
+    },
+    "start_city": "Whitecrag",
+    "end_cities": [
+      "Talonscar",
+      "Silentcanyon",
+      "Grimerock"
+    ]
+  },
+  {
+    "city_info": {
+      "Meekcreak": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Onyxtrails": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Richport": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Wolfdune": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Longwater": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Bittersprings": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Thornford": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Shady Hallow": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Plainbellow": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Copper Chapel": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Ruby Port": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      }
+    },
+    "map": "fantasy_map_1560976900330.png",
+    "graph": {
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          0,
+          7
+        ],
+        [
+          1,
+          10
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          8,
+          3
+        ]
+      ],
+      "nodes": {
+        "0": {
+          "id": 0,
+          "label": "Meekcreak",
+          "x": -0.3160956690368455,
+          "y": 0.24336283185840707
+        },
+        "1": {
+          "id": 1,
+          "label": "Onyxtrails",
+          "x": -0.04201680672268908,
+          "y": 0.1902654867256637
+        },
+        "2": {
+          "id": 2,
+          "label": "Richport",
+          "x": -0.28829993535875886,
+          "y": -0.0752212389380531
+        },
+        "3": {
+          "id": 3,
+          "label": "Wolfdune",
+          "x": 0.03878474466709761,
+          "y": -0.09734513274336283
+        },
+        "4": {
+          "id": 4,
+          "label": "Longwater",
+          "x": 0.19198448610213317,
+          "y": -0.1430678466076696
+        },
+        "5": {
+          "id": 5,
+          "label": "Bittersprings",
+          "x": 0.13380736910148675,
+          "y": 0.007374631268436578
+        },
+        "6": {
+          "id": 6,
+          "label": "Thornford",
+          "x": 0.32191338073691017,
+          "y": -0.1129498525073746312
+        },
+        "7": {
+          "id": 7,
+          "label": "Shady Hallow",
+          "x": -0.07433742727860375,
+          "y": 0.02064896755162242
+        },
+        "8": {
+          "id": 8,
+          "label": "Plainbellow",
+          "x": -0.007110536522301228,
+          "y": -0.24336283185840707
+        },
+        "9": {
+          "id": 9,
+          "label": "Copper Chapel",
+          "x": 0.29282482223658696,
+          "y": 0.15421828908554573
+        },
+        "10": {
+          "id": 10,
+          "label": "Ruby Port",
+          "x": 0.2178409825468649,
+          "y": 0.23893805309734514
+        }
+      }
+    },
+    "start_city": "Meekcreak",
+    "end_cities": [
+      "Copper Chapel",
+      "Longwater",
+      "Thornford"
+    ]
+  },
+  {
+    "city_info": {
+      "Bigstand": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Brokenroost": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Grand Mesa": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Wildbank": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Barrendowns": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Gravelburg": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Flatcity": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Goldenhowl": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      },
+      "Tightriver": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Paleville": {
+        "possible_rewards": [
+          15,
+          30,
+          45,
+          60
+        ],
+        "actual_reward": 50
+      },
+      "Dusty Summit": {
+        "possible_rewards": [
+          100,
+          200,
+          300,
+          400
+        ],
+        "actual_reward": 50
+      }
+    },
+    "map": "fantasy_map_1560977229084.png",
+    "graph": {
+      "edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          9,
+          7
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          9
+        ],
+        [
+          5,
+          9
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          9,
+          8
+        ]
+      ],
+      "nodes": {
+        "0": {
+          "id": 0,
+          "label": "Bigstand",
+          "x": -0.3387201034259858,
+          "y": 0.007374631268436578
+        },
+        "1": {
+          "id": 1,
+          "label": "Brokenroost",
+          "x": -0.2592113768584357,
+          "y": 0.17994100294985252
+        },
+        "2": {
+          "id": 2,
+          "label": "Grand Mesa",
+          "x": -0.25080801551389786,
+          "y": -0.09587020648967552
+        },
+        "3": {
+          "id": 3,
+          "label": "Wildbank",
+          "x": 0,
+          "y": -0.12536873156342182
+        },
+        "4": {
+          "id": 4,
+          "label": "Barrendowns",
+          "x": 0.056884292178409825,
+          "y": -0.016224188790560472
+        },
+        "5": {
+          "id": 5,
+          "label": "Gravelburg",
+          "x": 0.04395604395604396,
+          "y": -0.27876106194690264
+        },
+        "6": {
+          "id": 6,
+          "label": "Flatcity",
+          "x": 0.1777634130575307,
+          "y": 0.08702064896755163
+        },
+        "7": {
+          "id": 7,
+          "label": "Goldenhowl",
+          "x": 0.28932773109243695,
+          "y": 0.12519174041297935
+        },
+        "8": {
+          "id": 8,
+          "label": "Tightriver",
+          "x": 0.3380736910148675,
+          "y": -0.11209439528023599
+        },
+        "9": {
+          "id": 9,
+          "label": "Paleville",
+          "x": 0.2359405300581771,
+          "y": -0.12536873156342182
+        },
+        "10": {
+          "id": 10,
+          "label": "Dusty Summit",
+          "x": 0.24692954104718812,
+          "y": 0.2949852507374631
+        }
+      }
+    },
+    "start_city": "Bigstand",
+    "end_cities": [
+      "Goldenhowl",
+      "Dusty Summit"
+    ]
+  },
+  {
+    "city_info": {
+      "Wolftown": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Rustbluff": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Glumgorge": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Darkstone": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Monkeydune": {
+        "possible_rewards": [
+          120,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Stiffbrook": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Blindtooth": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Ragbanks": {
+        "possible_rewards": [
+          120,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Steelcanyon": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Swiftchapel": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Dreadriver": {
+        "possible_rewards": [
+          120,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      }
+    },
+    "map": "fantasy_map_1560976873961.png",
+    "graph": {
+      "edges": [
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          5,
+          7
+        ],
+        [
+          6,
+          4
+        ],
+        [
+          9,
+          7
+        ],
+        [
+          5,
+          10
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          8,
+          9
+        ],
+        [
+          3,
+          8
+        ],
+        [
+          9,
+          4
+        ]
+      ],
+      "nodes": {
+        "0": {
+          "id": 0,
+          "label": "Wolftown",
+          "x": -0.3049894588896697,
+          "y": 0.1796165191740413
+        },
+        "1": {
+          "id": 1,
+          "label": "Rustbluff",
+          "x": -0.14617006324666199,
+          "y": 0.06342182890855458
+        },
+        "2": {
+          "id": 2,
+          "label": "Glumgorge",
+          "x": -0.286718200983837,
+          "y": -0.004424778761061947
+        },
+        "3": {
+          "id": 3,
+          "label": "Darkstone",
+          "x": -0.05130007027406887,
+          "y": -0.24631268436578171
+        },
+        "4": {
+          "id": 4,
+          "label": "Monkeydune",
+          "x": 0.19395643007730148,
+          "y": 0.1696165191740413
+        },
+        "5": {
+          "id": 5,
+          "label": "Stiffbrook",
+          "x": 0.1602248770203795,
+          "y": -0.18141592920353983
+        },
+        "6": {
+          "id": 6,
+          "label": "Blindtooth",
+          "x": 0.06394940267041462,
+          "y": 0.06489675516224189
+        },
+        "7": {
+          "id": 7,
+          "label": "Ragbanks",
+          "x": 0.3239634574841883,
+          "y": -0.14896755162241887
+        },
+        "8": {
+          "id": 8,
+          "label": "Steelcanyon",
+          "x": 0.02881236823612087,
+          "y": -0.08702064896755163
+        },
+        "9": {
+          "id": 9,
+          "label": "Swiftchapel",
+          "x": 0.19395643007730148,
+          "y": -0.016224188790560472
+        },
+        "10": {
+          "id": 10,
+          "label": "Dreadriver",
+          "x": 0.2326071679550246,
+          "y": -0.3303834808259587
+        }
+      }
+    },
+    "start_city": "Wolftown",
+    "end_cities": [
+      "Ragbanks",
+      "Dreadriver",
+      "Monkeydune"
+    ]
+  },
+  {
+    "city_info": {
+      "Scornvale": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Silentedge": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Wolfcave": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Smoothmountain": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Serpentcrag": {
+        "possible_rewards": [
+          120,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Purestone": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Thornburg": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Wildbend": {
+        "possible_rewards": [
+          120,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Silverstead": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Greedpass": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Sinvale": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      }
+    },
+    "map": "fantasy_map_1560976804519.png",
+    "graph": {
+      "edges": [
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          6,
+          4
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          9,
+          6
+        ],
+        [
+          9,
+          10
+        ],
+        [
+          10,
+          7
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          9,
+          8
+        ],
+        [
+          8,
+          7
+        ]
+      ],
+      "nodes": {
+        "0": {
+          "id": 0,
+          "label": "Scornvale",
+          "x": -0.36199095022624433,
+          "y": 0.014749262536873156
+        },
+        "1": {
+          "id": 1,
+          "label": "Silentedge",
+          "x": -0.13186813186813187,
+          "y": 0.20648967551622419
+        },
+        "2": {
+          "id": 2,
+          "label": "Wolfcave",
+          "x": -0.24434389140271492,
+          "y": 0.058997050147492625
+        },
+        "3": {
+          "id": 3,
+          "label": "Smoothmountain",
+          "x": -0.2094376212023271,
+          "y": -0.0702212389380531
+        },
+        "4": {
+          "id": 4,
+          "label": "Serpentcrag",
+          "x": 0.3076923076923077,
+          "y": 0.15486725663716813
+        },
+        "5": {
+          "id": 5,
+          "label": "Purestone",
+          "x": -0.09631544925662573,
+          "y": -0.008849557522123894
+        },
+        "6": {
+          "id": 6,
+          "label": "Thornburg",
+          "x": 0.15966386554621848,
+          "y": 0.058997050147492625
+        },
+        "7": {
+          "id": 7,
+          "label": "Wildbend",
+          "x": 0.30187459599224303,
+          "y": -0.09144542772861357
+        },
+        "8": {
+          "id": 8,
+          "label": "Silverstead",
+          "x": 0.16095669036845509,
+          "y": -0.084070796460177
+        },
+        "9": {
+          "id": 9,
+          "label": "Greedpass",
+          "x": 0.0019392372333548805,
+          "y": -0.252212389380531
+        },
+        "10": {
+          "id": 10,
+          "label": "Sinvale",
+          "x": 0.20038784744667099,
+          "y": -0.3112094395280236
+        }
+      }
+    },
+    "start_city": "Scornvale",
+    "end_cities": [
+      "Wildbend",
+      "Serpentcrag"
+    ]
+  },
+  {
+    "city_info": {
+      "Goldcreak": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Crazerock": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Tanscar": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Breakroost": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Lightbank": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Slowalley": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Wolfmesa": {
+        "possible_rewards": [
+          120,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Desertglen": {
+        "possible_rewards": [
+          120,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Crookgate": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Blankhallow": {
+        "possible_rewards": [
+          120,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Tuckersnag": {
+        "possible_rewards": [
+          120,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      }
+    },
+    "map": "fantasy_map_1560976821363.png",
+    "graph": {
+      "edges": [
+        [
+          4,
+          10
+        ],
+        [
+          5,
+          9
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          3,
+          5
+        ]
+      ],
+      "nodes": {
+        "0": {
+          "id": 0,
+          "label": "Goldcreak",
+          "x": -0.27020038784744665,
+          "y": 0.08259587020648967
+        },
+        "1": {
+          "id": 1,
+          "label": "Crazerock",
+          "x": 0.0019392372333548805,
+          "y": 0.18141592920353983
+        },
+        "2": {
+          "id": 2,
+          "label": "Tanscar",
+          "x": -0.06464124111182935,
+          "y": -0.10766961651917405
+        },
+        "3": {
+          "id": 3,
+          "label": "Breakroost",
+          "x": -0.12023270846800259,
+          "y": 0.02064896755162242
+        },
+        "4": {
+          "id": 4,
+          "label": "Lightbank",
+          "x": 0.21266968325791855,
+          "y": 0.1092920353982301
+        },
+        "5": {
+          "id": 5,
+          "label": "Slowalley",
+          "x": 0.20749838396897222,
+          "y": -0.10766961651917405
+        },
+        "6": {
+          "id": 6,
+          "label": "Wolfmesa",
+          "x": 0.3400129282482224,
+          "y": 0.09144542772861357
+        },
+        "7": {
+          "id": 7,
+          "label": "Desertglen",
+          "x": 0.21266968325791855,
+          "y": -0.004424778761061947
+        },
+        "8": {
+          "id": 8,
+          "label": "Crookgate",
+          "x": 0.07369101486748546,
+          "y": -0.2079646017699115
+        },
+        "9": {
+          "id": 9,
+          "label": "Blankhallow",
+          "x": 0.3044602456367162,
+          "y": -0.27728613569321536
+        },
+        "10": {
+          "id": 10,
+          "label": "Tuckersnag",
+          "x": 0.21266968325791855,
+          "y": 0.21091445427728614
+        }
+      }
+    },
+    "start_city": "Goldcreak",
+    "end_cities": [
+      "Tuckersnag",
+      "Desertglen",
+      "Blankhallow",
+      "Wolfmesa"
+    ]
+  },
+  {
+    "city_info": {
+      "Quickbanks": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Copper Crag": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Scorncreak": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Thinpass": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Defiant Rock": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Bareriver": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Dodgelake": {
+        "possible_rewards": [
+          120,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Dullgulch": {
+        "possible_rewards": [
+          120,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Paleflats": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Idlestream": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Dryplanes": {
+        "possible_rewards": [
+          120,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      }
+    },
+    "map": "fantasy_map_1560976890783.png",
+    "graph": {
+      "edges": [
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          9
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          4,
+          10
+        ],
+        [
+          3,
+          10
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          9,
+          7
+        ],
+        [
+          0,
+          8
+        ],
+        [
+          8,
+          3
+        ]
+      ],
+      "nodes": {
+        "0": {
+          "id": 0,
+          "label": "Quickbanks",
+          "x": -0.2275371687136393,
+          "y": -0.09587020648967552
+        },
+        "1": {
+          "id": 1,
+          "label": "Copper Crag",
+          "x": -0.2275371687136393,
+          "y": 0.1415929203539823
+        },
+        "2": {
+          "id": 2,
+          "label": "Scorncreak",
+          "x": 0.012281835811247576,
+          "y": -0.26253687315634217
+        },
+        "3": {
+          "id": 3,
+          "label": "Thinpass",
+          "x": 0.13574660633484162,
+          "y": -0.02654867256637168
+        },
+        "4": {
+          "id": 4,
+          "label": "Defiant Rock",
+          "x": -0.011635423400129283,
+          "y": 0.1415929203539823
+        },
+        "5": {
+          "id": 5,
+          "label": "Bareriver",
+          "x": 0.18331609566903684,
+          "y": -0.14749262536873156
+        },
+        "6": {
+          "id": 6,
+          "label": "Dodgelake",
+          "x": 0.2979961215255333,
+          "y": 0.1415929203539823
+        },
+        "7": {
+          "id": 7,
+          "label": "Dullgulch",
+          "x": 0.2979961215255333,
+          "y": -0.14749262536873156
+        },
+        "8": {
+          "id": 8,
+          "label": "Paleflats",
+          "x": -0.011635423400129283,
+          "y": 0.017699115044247787
+        },
+        "9": {
+          "id": 9,
+          "label": "Idlestream",
+          "x": 0.23076923076923078,
+          "y": -0.23008849557522124
+        },
+        "10": {
+          "id": 10,
+          "label": "Dryplanes",
+          "x": 0.12152553329023917,
+          "y": 0.2715929203539823
+        }
+      }
+    },
+    "start_city": "Quickbanks",
+    "end_cities": [
+      "Dodgelake",
+      "Dryplanes",
+      "Dullgulch"
+    ]
+  },
+  {
+    "city_info": {
+      "Blindcreak": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Lordssnag": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Venombutte": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Narrowville": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Leadtrail": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Swifttusk": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Desertburg": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Glumworth": {
+        "possible_rewards": [
+          120,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Thornhollow": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Tuckerdune": {
+        "possible_rewards": [
+          120,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Littlecanyon": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      }
+    },
+    "map": "fantasy_map_1560977256139.png",
+    "graph": {
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          10
+        ],
+        [
+          6,
+          9
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          5,
+          7
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          4,
+          8
+        ],
+        [
+          8,
+          6
+        ]
+      ],
+      "nodes": {
+        "0": {
+          "id": 0,
+          "label": "Blindcreak",
+          "x": -0.1341952165481577,
+          "y": 0.1976401179941003
+        },
+        "1": {
+          "id": 1,
+          "label": "Lordssnag",
+          "x": 0.008442146089204912,
+          "y": 0.05604719764011799
+        },
+        "2": {
+          "id": 2,
+          "label": "Venombutte",
+          "x": -0.23206205559146736,
+          "y": -0.08112094395280237
+        },
+        "3": {
+          "id": 3,
+          "label": "Narrowville",
+          "x": -0.01098901098901099,
+          "y": -0.17699115044247787
+        },
+        "4": {
+          "id": 4,
+          "label": "Leadtrail",
+          "x": 0.028442146089204912,
+          "y": 0.23008849557522124
+        },
+        "5": {
+          "id": 5,
+          "label": "Swifttusk",
+          "x": 0.17647058823529413,
+          "y": -0.24336283185840707
+        },
+        "6": {
+          "id": 6,
+          "label": "Desertburg",
+          "x": 0.24499030381383322,
+          "y": 0.011799410029498525
+        },
+        "7": {
+          "id": 7,
+          "label": "Glumworth",
+          "x": 0.3477698771816419,
+          "y": -0.1415929203539823
+        },
+        "8": {
+          "id": 8,
+          "label": "Thornhollow",
+          "x": 0.09566903684550743,
+          "y": 0.05604719764011799
+        },
+        "9": {
+          "id": 9,
+          "label": "Tuckerdune",
+          "x": 0.3283775048480931,
+          "y": 0.11209439528023599
+        },
+        "10": {
+          "id": 10,
+          "label": "Littlecanyon",
+          "x": 0.2727860374919198,
+          "y": 0.27876106194690264
+        }
+      }
+    },
+    "start_city": "Blindcreak",
+    "end_cities": [
+      "Tuckerdune",
+      "Glumworth"
+    ]
+  },
+  {
+    "city_info": {
+      "Whitecrag": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Numbbanks": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Old Hill": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Snakebank": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Strongcreak": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Grimerock": {
+        "possible_rewards": [
+          120,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Silentcanyon": {
+        "possible_rewards": [
+          120,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Sandybeach": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Courtdune": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Talonscar": {
+        "possible_rewards": [
+          120,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Clearpoint": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      }
+    },
+    "map": "fantasy_map_1560977246328.png",
+    "graph": {
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          7,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          7,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          4,
+          8
+        ],
+        [
+          8,
+          9
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          8,
+          6
+        ]
+      ],
+      "nodes": {
+        "0": {
+          "id": 0,
+          "label": "Whitecrag",
+          "x": -0.31092436974789917,
+          "y": -0.03687315634218289
+        },
+        "1": {
+          "id": 1,
+          "label": "Numbbanks",
+          "x": -0.15126050420168066,
+          "y": 0.168141592920354
+        },
+        "2": {
+          "id": 2,
+          "label": "Old Hill",
+          "x": -0.09243697478991597,
+          "y": 0.03687315634218289
+        },
+        "3": {
+          "id": 3,
+          "label": "Snakebank",
+          "x": 0.014867485455720749,
+          "y": -0.20206489675516223
+        },
+        "4": {
+          "id": 4,
+          "label": "Strongcreak",
+          "x": 0.10213316095669037,
+          "y": -0.03687315634218289
+        },
+        "5": {
+          "id": 5,
+          "label": "Grimerock",
+          "x": 0.27407886231415646,
+          "y": -0.02064896755162242
+        },
+        "6": {
+          "id": 6,
+          "label": "Silentcanyon",
+          "x": 0.24628312863606983,
+          "y": -0.18436578171091444
+        },
+        "7": {
+          "id": 7,
+          "label": "Sandybeach",
+          "x": 0.011635423400129283,
+          "y": 0.20687315634218289
+        },
+        "8": {
+          "id": 8,
+          "label": "Courtdune",
+          "x": 0.1997414350355527,
+          "y": -0.0471976401179941
+        },
+        "9": {
+          "id": 9,
+          "label": "Talonscar",
+          "x": 0.19327731092436976,
+          "y": 0.17994100294985252
+        },
+        "10": {
+          "id": 10,
+          "label": "Clearpoint",
+          "x": 0.05061409179056237,
+          "y": 0.3112094395280236
+        }
+      }
+    },
+    "start_city": "Whitecrag",
+    "end_cities": [
+      "Talonscar",
+      "Silentcanyon",
+      "Grimerock"
+    ]
+  },
+  {
+    "city_info": {
+      "Meekcreak": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Onyxtrails": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Richport": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Wolfdune": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Longwater": {
+        "possible_rewards": [
+          100,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Bittersprings": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Thornford": {
+        "possible_rewards": [
+          100,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Shady Hallow": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Plaindunes": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Copper Chapel": {
+        "possible_rewards": [
+          100,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Rubytown": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      }
+    },
+    "map": "fantasy_map_1560976910803.png",
+    "graph": {
+      "edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          0,
+          7
+        ],
+        [
+          1,
+          10
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          7,
+          5
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          2,
+          8
+        ],
+        [
+          8,
+          3
+        ]
+      ],
+      "nodes": {
+        "0": {
+          "id": 0,
+          "label": "Meekcreak",
+          "x": -0.3160956690368455,
+          "y": 0.24336283185840707
+        },
+        "1": {
+          "id": 1,
+          "label": "Onyxtrails",
+          "x": -0.04201680672268908,
+          "y": 0.1902654867256637
+        },
+        "2": {
+          "id": 2,
+          "label": "Richport",
+          "x": -0.28829993535875886,
+          "y": -0.0752212389380531
+        },
+        "3": {
+          "id": 3,
+          "label": "Wolfdune",
+          "x": 0.03878474466709761,
+          "y": -0.09734513274336283
+        },
+        "4": {
+          "id": 4,
+          "label": "Longwater",
+          "x": 0.19198448610213317,
+          "y": -0.1430678466076696
+        },
+        "5": {
+          "id": 5,
+          "label": "Bittersprings",
+          "x": 0.13380736910148675,
+          "y": 0.007374631268436578
+        },
+        "6": {
+          "id": 6,
+          "label": "Thornford",
+          "x": 0.32191338073691017,
+          "y": -0.052949852507374634
+        },
+        "7": {
+          "id": 7,
+          "label": "Shady Hallow",
+          "x": -0.07433742727860375,
+          "y": 0.02064896755162242
+        },
+        "8": {
+          "id": 8,
+          "label": "Plaindunes",
+          "x": -0.007110536522301228,
+          "y": -0.24336283185840707
+        },
+        "9": {
+          "id": 9,
+          "label": "Copper Chapel",
+          "x": 0.29282482223658696,
+          "y": 0.12421828908554573
+        },
+        "10": {
+          "id": 10,
+          "label": "Rubytown",
+          "x": 0.1178409825468649,
+          "y": 0.12421828908554573
+        }
+      }
+    },
+    "start_city": "Meekcreak",
+    "end_cities": [
+      "Copper Chapel",
+      "Longwater",
+      "Thornford"
+    ]
+  },
+  {
+    "city_info": {
+      "Bigstand": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Brokenroost": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Grand Mesa": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Wildbank": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Barrendowns": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Gravelburg": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Flatcity": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Goldenhowl": {
+        "possible_rewards": [
+          100,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Tightriver": {
+        "possible_rewards": [
+          100,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      },
+      "Paleville": {
+        "possible_rewards": [
+          30,
+          35,
+          40,
+          45
+        ],
+        "actual_reward": 50
+      },
+      "Dusty Mountain": {
+        "possible_rewards": [
+          100,
+          200,
+          290,
+          380
+        ],
+        "actual_reward": 50
+      }
+    },
+    "map": "fantasy_map_1551987740706.png",
+    "graph": {
+      "edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          9,
+          7
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          9
+        ],
+        [
+          5,
+          9
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          9,
+          8
+        ]
+      ],
+      "nodes": {
+        "0": {
+          "id": 0,
+          "label": "Bigstand",
+          "x": -0.3387201034259858,
+          "y": 0.007374631268436578
+        },
+        "1": {
+          "id": 1,
+          "label": "Brokenroost",
+          "x": -0.2592113768584357,
+          "y": 0.17994100294985252
+        },
+        "2": {
+          "id": 2,
+          "label": "Grand Mesa",
+          "x": -0.25080801551389786,
+          "y": -0.09587020648967552
+        },
+        "3": {
+          "id": 3,
+          "label": "Wildbank",
+          "x": -0.16289592760180996,
+          "y": 0.1949852507374631
+        },
+        "4": {
+          "id": 4,
+          "label": "Barrendowns",
+          "x": 0.056884292178409825,
+          "y": -0.016224188790560472
+        },
+        "5": {
+          "id": 5,
+          "label": "Gravelburg",
+          "x": 0,
+          "y": -0.27876106194690264
+        },
+        "6": {
+          "id": 6,
+          "label": "Flatcity",
+          "x": 0.1777634130575307,
+          "y": 0.08702064896755163
+        },
+        "7": {
+          "id": 7,
+          "label": "Goldenhowl",
+          "x": 0.31932773109243695,
+          "y": 0.06519174041297935
+        },
+        "8": {
+          "id": 8,
+          "label": "Tightriver",
+          "x": 0.3380736910148675,
+          "y": -0.11209439528023599
+        },
+        "9": {
+          "id": 9,
+          "label": "Paleville",
+          "x": 0.2359405300581771,
+          "y": -0.12536873156342182
+        },
+        "10": {
+          "id": 10,
+          "label": "Dusty Mountain",
+          "x": 0.24692954104718812,
+          "y": 0.1949852507374631
+        }
+      }
+    },
+    "start_city": "Bigstand",
+    "end_cities": [
+      "Dusty Mountain",
+      "Goldenhowl",
+      "Tightriver"
+    ]
+  }
+]

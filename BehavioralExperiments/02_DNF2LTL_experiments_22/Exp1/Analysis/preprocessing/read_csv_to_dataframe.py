@@ -317,7 +317,7 @@ def getParticipantInfoExp1(dataclip, subject):
     #'corClicksTotalNumber': np.sum(clicks_correct),
     #'incClicksTotalNumber': np.sum(clicks_incorrect),
     #'clicks': clicks,
-    #'scores_exp': scores_exp,
+    'expectedScores': scores_exp,
     'expectedScoreMean': round(np.mean(scores_exp),4),
     'testingTrials': ML_test_trials,
     'datastring': datastring

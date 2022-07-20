@@ -1,6 +1,6 @@
 # DNF2LTL
 
-This is a Python library associated with the article called "Boosting human decision-making with AI-generated decision aids" (Becker et al., 2022) submitted to Computational Brain & Behavior Journal. The manuscript is available at .... DNF2LTL is an algorithm which transforms disjunctive normal form formulas into linear temporal logic formulas.
+This is a Python library associated with the article called "Boosting human decision-making with AI-generated decision aids" (Becker et al., 2022) submitted to Computational Brain & Behavior Journal. The manuscript is available at https://arxiv.org/abs/2203.02776. DNF2LTL is an algorithm which transforms disjunctive normal form formulas into linear temporal logic formulas.
 
 We used Python 3.6.9 and Ubuntu 20.04.
 

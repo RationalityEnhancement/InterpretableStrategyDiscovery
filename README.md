@@ -16,6 +16,6 @@ Navigate to the experiment folders in order to see the data gathered in experime
 
 ## Literature
 
-  Becker, F., Skirzyński, J,, van Opheusden, B., & Lieder. F. (2022). Boosting human decision-making with AI-generated decision aids. Manuscript in submission. Available at https://arxiv.org/abs/2203.02776
+  Becker, F., Skirzyński, J,, van Opheusden, B., & Lieder. F. (2022). Boosting human decision-making with AI-generated decision aids. Computational Brain & Behavior (2022). Available at https://link.springer.com/article/10.1007/s42113-022-00149-y
 
   Skirzyński, J., Becker, F., & Lieder, F. (2021). Automatic discovery of interpretable planning strategies. Machine Learning, 110(9), 2641-2683. Available at https://link.springer.com/article/10.1007/s10994-021-05963-2
